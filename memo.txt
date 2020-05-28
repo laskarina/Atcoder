@@ -1,0 +1,9 @@
+TERMINALでacc new (コンテスト名)で対象コンテスト用の作業ディレクトリが作成
+
+
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    
+}
