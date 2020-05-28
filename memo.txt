@@ -2,8 +2,12 @@ TERMINALでacc new (コンテスト名)で対象コンテスト用の作業デ�
 
 
 #include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
  
 int main() {
-    
+    string A;
+    cin >> A;
+
+
 }
